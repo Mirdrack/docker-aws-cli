@@ -3,11 +3,11 @@
 Docker tool to run aws cli through a container
 
 ## Specifications
-Based on `alpine:3.9`
-aws-cli `1.16.125`
-Python `2.7.15`
-Linux `4.9.125`
-linuxkit botocore `1.12.115`
+Based on `alpine:3.9`  
+aws-cli `1.16.125`  
+Python `2.7.15`  
+Linux `4.9.125`  
+linuxkit botocore `1.12.115`  
 
 ## How to use it
 ```
